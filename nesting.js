@@ -1,18 +1,18 @@
-function sum(a,b){
-    return a+b;
+//function sum(a,b){
+  //  return a+b;
 
-}
-console.log(sum(10,20));
-console.log(sum(10,5));
+//}
+//console.log(sum(10,20));
+//console.log(sum(10,5));
 function name(){
     
-    let a="joy" 
-    let b="sol";
+    var a="pharel" 
+    var b="nol";
     function identity(){
-    let c =a+ " and " +b+ " are friends";
+    var c =a+ " and " +b+ " are friends";
+    console.log(c);
 }
 identity();
-console.log(c);
 
 }
 name();
