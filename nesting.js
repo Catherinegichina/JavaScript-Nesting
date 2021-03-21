@@ -8,6 +8,7 @@ function name(){
     
     var a="pharel" 
     var b="nol";
+    
     function identity(){
     var c =a+ " and " +b+ " are friends";
     console.log(c);
