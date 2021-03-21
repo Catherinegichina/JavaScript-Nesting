@@ -14,7 +14,11 @@ var car={
 };
 console.log(car.name + ""+car.wheels);
 
-
+function name(){
+var name="cate"
+console.log(name)
+}
+name()
 
 
 
